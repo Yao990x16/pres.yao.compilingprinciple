@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pres.yao.compilingprinciple:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pres_yao_compilingprinciple_jar</output-path>
+    <root id="archive" name="pres.yao.compilingprinciple.jar">
+      <element id="module-output" name="pres.yao.compilingprinciple" />
+    </root>
+  </artifact>
+</component>
